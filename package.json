@@ -2,7 +2,6 @@
 	"name": "@ctx-core/class",
 	"version": "3.1.20",
 	"description": "ctx-core class",
-	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
