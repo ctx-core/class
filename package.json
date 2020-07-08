@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/class",
-	"version": "3.1.23",
+	"version": "3.1.24",
 	"description": "ctx-core class",
 	"main": "index.js",
 	"module": "index.js",
