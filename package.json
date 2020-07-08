@@ -2,9 +2,9 @@
 	"name": "@ctx-core/class",
 	"version": "3.1.25",
 	"description": "ctx-core class",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
