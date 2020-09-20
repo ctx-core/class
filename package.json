@@ -1,35 +1,35 @@
 {
-  "name": "@ctx-core/class",
-  "version": "4.0.2",
-  "description": "ctx-core class",
-  "keywords": [
-    "ctx-core",
-    "class"
-  ],
-  "homepage": "https://github.com/ctx-core/class#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/class/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/class.git"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "./index.js",
-  "module": "./index.js",
-  "types": "./index.ts",
-  "scripts": {
-    "build": "npm run clean && npm run compile",
-    "clean": "rm -f tsconfig.tsbuildinfo",
-    "compile": "./node_modules/.bin/tsc -b",
-    "exec": "$@",
-    "prepublishOnly": "npm run compile"
-  },
-  "devDependencies": {
-    "typescript": "^4.0.3"
-  },
-  "publishConfig": {
-    "access": "public"
-  }
+	"name": "@ctx-core/class",
+	"version": "4.0.2",
+	"description": "ctx-core class",
+	"keywords": [
+		"ctx-core",
+		"class"
+	],
+	"homepage": "https://github.com/ctx-core/class#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/class/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/class.git"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
+	"scripts": {
+		"build": "npm run clean && npm run compile",
+		"clean": "rm -f tsconfig.tsbuildinfo",
+		"compile": "./node_modules/.bin/tsc -b",
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
+	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
