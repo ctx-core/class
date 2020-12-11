@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 4.0.5
+
+### Patch Changes
+
+- typescript: ^4.1.2 -> ^4.1.3
+
 ## 4.0.4
 
 ### Patch Changes
