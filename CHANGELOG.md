@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 4.0.6
+
+### Patch Changes
+
+- - .rush
+
 ## 4.0.5
 
 ### Patch Changes
