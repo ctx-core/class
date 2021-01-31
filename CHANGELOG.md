@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 5.0.0
+
+### Major Changes
+
+- src directory
+
 ## 4.0.6
 
 ### Patch Changes
