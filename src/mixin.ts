@@ -1,4 +1,4 @@
-export function mixin(target, source) {
+export function mixin(target:Function, source:Function) {
 	const target_prototype = target.prototype
 	const source_prototype = source.prototype
 	const propertyNames = Object.getOwnPropertyNames(source_prototype)

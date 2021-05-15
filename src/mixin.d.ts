@@ -1,1 +1,1 @@
-export declare function mixin(target: any, source: any): any;
+export declare function mixin(target: Function, source: Function): Function;
