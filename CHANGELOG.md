@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 5.3.2
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 5.3.1
 
 ### Patch Changes
