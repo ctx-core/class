@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 5.3.3
+
+### Patch Changes
+
+- version bump: run build
+
 ## 5.3.2
 
 ### Patch Changes
