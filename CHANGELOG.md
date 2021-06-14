@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 6.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 5.3.3
 
 ### Patch Changes
