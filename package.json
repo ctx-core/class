@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/class",
-	"version": "6.0.0",
+	"version": "6.0.1",
 	"description": "ctx-core class",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"typescript": "^4.3.2"
+		"typescript": "^4.3.3"
 	},
 	"publishConfig": {
 		"access": "public",
