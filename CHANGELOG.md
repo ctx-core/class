@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 6.0.3
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 6.0.2
 
 ### Patch Changes
