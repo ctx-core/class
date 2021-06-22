@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 6.0.7
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+
 ## 6.0.6
 
 ### Patch Changes
