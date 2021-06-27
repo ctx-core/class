@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 6.0.9
+
+### Patch Changes
+
+- dist directory
+
 ## 6.0.8
 
 ### Patch Changes
