@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 7.0.1
 
 ### Patch Changes
