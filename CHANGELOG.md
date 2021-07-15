@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 6.0.10
 
 ### Patch Changes
