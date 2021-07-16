@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.10
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 7.0.9
 
 ### Patch Changes
