@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.14
+
+### Patch Changes
+
+- fix: "exports": "./package.json": "./package.json"
+
 ## 7.0.13
 
 ### Patch Changes
