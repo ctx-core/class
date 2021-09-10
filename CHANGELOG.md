@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.16
+
+### Patch Changes
+
+- typescript: ^4.4.2 -> ^4.4.3
+
 ## 7.0.15
 
 ### Patch Changes
