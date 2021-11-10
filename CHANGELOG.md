@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.18
+
+### Patch Changes
+
+- compile using swc
+
 ## 7.0.17
 
 ### Patch Changes
