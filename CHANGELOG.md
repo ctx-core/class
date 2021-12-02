@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.23
+
+### Patch Changes
+
+- @swc/core: ^1.2.113 -> ^1.2.116
+
 ## 7.0.22
 
 ### Patch Changes
