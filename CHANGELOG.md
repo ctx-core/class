@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.26
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 7.0.25
 
 ### Patch Changes
