@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.27
+
+### Patch Changes
+
+- package.json: - module
+
 ## 7.0.26
 
 ### Patch Changes
