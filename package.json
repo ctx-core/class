@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/class",
-	"version": "7.0.28",
+	"version": "7.0.29",
 	"description": "ctx-core class",
 	"keywords": [
 		"ctx-core",
@@ -19,8 +19,8 @@
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
