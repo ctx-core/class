@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.28
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 7.0.27
 
 ### Patch Changes
