@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.30
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 7.0.29
 
 ### Patch Changes
