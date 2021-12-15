@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.31
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 7.0.30
 
 ### Patch Changes
