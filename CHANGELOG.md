@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.34
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 7.0.33
 
 ### Patch Changes
