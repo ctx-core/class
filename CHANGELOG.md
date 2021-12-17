@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.32
+
+### Patch Changes
+
+- fix: build
+
 ## 7.0.31
 
 ### Patch Changes
