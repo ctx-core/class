@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.36
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 7.0.35
 
 ### Patch Changes
