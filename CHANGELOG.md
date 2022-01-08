@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.39
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 7.0.38
 
 ### Patch Changes
