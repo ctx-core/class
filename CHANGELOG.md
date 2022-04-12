@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.40
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 7.0.39
 
 ### Patch Changes
