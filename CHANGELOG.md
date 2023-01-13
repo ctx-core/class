@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.0.41
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 7.0.40
 
 ### Patch Changes
