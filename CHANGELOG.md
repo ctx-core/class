@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 7.0.44
 
 ### Patch Changes
