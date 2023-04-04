@@ -1,1 +1,4 @@
-export declare function mixin(target:Function, source:Function):Function
+export declare function mixin(
+	target:Function,
+	source:Function
+):Function
