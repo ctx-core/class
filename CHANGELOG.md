@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.1.20
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 7.1.19
 
 ### Patch Changes
