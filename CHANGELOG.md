@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.1.21
+
+### Patch Changes
+
+- version bump
+
 ## 7.1.20
 
 ### Patch Changes
