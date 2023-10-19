@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.1.22
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+
 ## 7.1.21
 
 ### Patch Changes

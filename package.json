@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/class",
-	"version": "7.1.21",
+	"version": "7.1.22",
 	"description": "ctx-core class",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
-		"tsx": "^3.13.0",
+		"tsx": "^3.14.0",
 		"typescript": "next",
 		"uvu": "^0.5.6"
 	},
