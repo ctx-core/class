@@ -1,5 +1,26 @@
 # @ctx-core/class
 
+## 7.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+- ∋ ctx-core/class
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@2.1.0
+
 ## 7.1.22
 
 ### Patch Changes
