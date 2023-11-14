@@ -1,5 +1,15 @@
 # @ctx-core/class
 
+## 7.2.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 7.2.3
 
 ### Patch Changes
