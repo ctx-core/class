@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.2.62
+
+### Patch Changes
+
+- ctx-core: ^5.3.0 -> ^5.3.1
+
 ## 7.2.61
 
 ### Patch Changes
