@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/class",
-	"version": "7.2.90",
+	"version": "7.2.91",
 	"description": "ctx-core class",
 	"keywords": [
 		"ctx-core",
@@ -38,7 +38,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"ctx-core": "^5.19.0"
+		"ctx-core": "^5.19.1"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
