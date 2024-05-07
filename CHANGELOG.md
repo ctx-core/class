@@ -1,5 +1,11 @@
 # @ctx-core/class
 
+## 7.2.181
+
+### Patch Changes
+
+- version bump
+
 ## 7.2.180
 
 ### Patch Changes
